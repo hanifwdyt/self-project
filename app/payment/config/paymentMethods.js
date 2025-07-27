@@ -41,7 +41,7 @@ export const PAYMENT_METHODS = [
     name: 'ShopeePay', 
     logo: '/assets/images/payment-logo/ShopeePay Logo.png', 
     color: 'from-orange-500 to-red-500',
-    accountNumber: '081234567890',
+    accountNumber: '087872753959',
     accountHolder: 'Hanif T. Widiyanto',
     type: 'ewallet'
   },
