@@ -74,6 +74,7 @@ export const PAYMENT_METHODS = [
   }
 ]
 
+
 // Payment method helper functions
 export const getPaymentMethodById = (id) => {
   return PAYMENT_METHODS.find(method => method.id === id)
